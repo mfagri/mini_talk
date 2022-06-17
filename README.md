@@ -229,6 +229,12 @@ void	binary_to_ascii(int signum, siginfo_t *info, void *context)
 
  so this the final step it’s not a big deal we just should mesure the len of the string that we want send it and in the send signals function we’re going to increase until it equal it it’s an easy thing.
  
+ 
+ 
+ #### ``Note : The Bonus Part is added to Mandatory Part``
+ 
+ 
+ 
  ##### Don't forget to report to me the Errors in the project and also your suggestions about it .... to make it better 😉
  <a href="https://github.com/mfagri/MiniShell" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marouane.fagri1@gmail.com)](mailto:marouane.fagri1@gmail.com)
